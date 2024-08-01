@@ -60,21 +60,11 @@ The project consists of the following files:
    git clone https://github.com/yourusername/snake-game-python-tkinter.git `
 
 1.  Navigate to the project directory:
-
-    sh
-
-    Copy code
-
     `cd snake-game-python-tkinter`
 
 2.  Make sure you have Python installed. This project is compatible with Python 3.x.
 
 3.  Run the main script to start the game:
-
-    sh
-
-    Copy code
-
     `python main.py`
 
 How to Play
