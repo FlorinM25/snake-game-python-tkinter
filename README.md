@@ -81,8 +81,3 @@ Features
 -   Simple and intuitive user interface.
 -   Dynamic snake movement and food generation.
 -   Score tracking.
-
-Contributing
-------------
-
-Contributions are welcome! If you have suggestions or improvements, please create an issue or submit a pull request.
